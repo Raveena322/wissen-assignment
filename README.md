@@ -130,6 +130,11 @@ npm run dev
 - Frontend: `http://localhost:5173`
 - Backend: `http://localhost:5000`
 
+## Live Deployment
+
+- Frontend: `https://wissen-assignment-frontend.onrender.com`
+- Backend: `https://wissen-assignment-backend.onrender.com`
+
 ## Demo Accounts
 
 - User: `s1u1@demo.com` / `password123`
