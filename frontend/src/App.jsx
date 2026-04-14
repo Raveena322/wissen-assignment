@@ -216,7 +216,12 @@ function AuthForm({ setSession }) {
           <p>- 5 bookings cap per 2-week cycle</p>
         </div>
         <div className="mt-6 rounded-lg bg-white/10 p-3 text-xs">
-          Demo credentials: <span className="font-semibold">s1u1@demo.com</span> / <span className="font-semibold">password123</span>
+          <p>
+            User demo: <span className="font-semibold">s1u1@demo.com</span> / <span className="font-semibold">password123</span>
+          </p>
+          <p className="mt-1">
+            Admin demo: <span className="font-semibold">admin@demo.com</span> / <span className="font-semibold">password123</span>
+          </p>
         </div>
       </div>
 
